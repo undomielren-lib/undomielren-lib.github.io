@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-baseurl: "/undomielren-lib/undomielren.github.io" # The subpath of your site, e.g. /blog
-url: "http://github.com" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://undomielren-lib.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
