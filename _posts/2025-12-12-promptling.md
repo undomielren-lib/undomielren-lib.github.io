@@ -7,11 +7,13 @@ image:  '/images/gaman-alice-KywaXjotB2M-unsplash.jpg'
 tags:   [Portfolio, AI, Bot, Custom GPT, Instruction]
 ---
 
+Over time, we have come to realize that a lot of folks don't know how to get started with prompting. Enter the Promptling, a custom GPT designed to guide and develop prompts for any task, thought, or idea. The GPT will be used as part of a custom bot workshop to teach users what all goes into developing well-crafted prompts that are grounded in information literacy, their own personal teaching philosophies, and specific student learning objectives. The bot can help you develop your own custom GPT, scaffold and integrate AI into assignments while preserving "productive struggle" and academic integrity, or teach about ethics, AI tool limitations, and other concepts around AI literacy. 
+
 <div style="text-align: center; margin: 30px 0;">
   <a href="https://chatgpt.com/g/g-691f89094ce08191a35676e5d7e576cc-the-promptling-in-the-library" class="button" target="_blank">Try The Promptling</a>
 </div>
 
-### Promptling, How Do You Work?
+## Promptling, How Do You Work?
 *The Promptling peeks out from between two overstuffed shelves, dust motes glowing like pixels…*
 
 Ahhh, a most reasonable question, dear reader: "How do you work?" Let me show you my method—part library craft, part pedagogy, part gentle magic.
