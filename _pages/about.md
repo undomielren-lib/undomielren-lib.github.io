@@ -7,7 +7,7 @@ image: '/images/ajai-arif-cKJmuVE-GfY-unsplash.jpg'
 
 Hi, my name is Bianca. I'm the AI Literacy Project Librarian at the University of Oklahoma Libraries, where I bridge the worlds of technology and accessible education. My work focuses on developing workshops, instructional materials, and resources that help faculty, staff, and students navigate AI tools responsibly. My goal is to promote information and digital literacy and help people make sense of AI without the hype or fear.
 
-My background is a bit unconventional for a librarian. I have a master's in physics and spent years studying astrophysics and working on particle detector upgrades for the ATLAS detector at CERN. I learned that the best science happens when research and knowledge are accessible to everyone, so I carry that philosophy into everything I work on. When I'm not working, I'm reading, appreciating all things kawaii and spooky, and spending time with cats.
+My background is a bit unconventional for a librarian. I have a Master's in Physics and spent years studying astrophysics and working on particle detector upgrades for the ATLAS detector at CERN. I learned that the best science happens when research and knowledge are accessible to everyone, so I carry that philosophy into everything I work on. When I'm not working, I'm reading, appreciating all things kawaii and spooky, and spending time with cats.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -33,8 +33,6 @@ My background is a bit unconventional for a librarian. I have a master's in phys
 *January 2019 - December 2021*
 
 **Awards:** Homer L. Dodge Department of Physics and Astronomy Award for Meritorious Scholarship in Astrophysics
-
-## Portfolio
 
 ## Portfolio
 
