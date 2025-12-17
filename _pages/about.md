@@ -11,13 +11,12 @@ My background is a bit unconventional for a librarian. I have a master's in phys
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="{{site.baseurl}}/images/steve-busch-JD7T8Y1B79U-unsplash.jpg">
-    <img src="{{site.baseurl}}/images/3648.jpg">
+    <img src="..." style="width: 400px; height: 300px; object-fit: cover;">
+    <img src="..." style="width: 400px; height: 300px; object-fit: cover;">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. An, partus ancillae sitne in fructu disseretur sine reprehensione iracundia.
+<a href="{{site.baseurl}}/files/Azartash_Resume_Libraries_AI-2.pdf" class="button" target="_blank">Resume</a>
 
 
 ![Time to think]({{site.baseurl}}/images/501.jpg)
