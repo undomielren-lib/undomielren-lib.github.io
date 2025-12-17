@@ -22,14 +22,14 @@ menu-settings:
 #-------------------------------
 # Author Settings
 author:
-  name: Bianca Azartash-Namin
-  avatar: '/images/15.jpg'
+  name: Bianca Azartash
+  avatar: '/images/521.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Bianca Azartash-Namin
+  title: Bianca Azartash
   description: AI Literacy Project Librarian
   image: '/images/01.jpg'
 
