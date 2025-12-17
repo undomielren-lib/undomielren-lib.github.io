@@ -7,13 +7,13 @@ image:  '/images/11.jpg'
 tags:   [Portfolio, AI, Instruction, Guides]
 ---
 ## Teaching Guide
-<a href="{{site.baseurl}}/files/AI Instruction Guide-3.pdf" class="button" target="_blank">View Guide</a>
+<a href="{{site.baseurl}}/files/AI Instruction Guide-3.pdf" class="button" target="_blank">AI Instruction Guide</a>
 
 ## AI Policy Template & Resources
-<a href="{{site.baseurl}}/files/AI vs AI-1.pdf" class="button" target="_blank">View Guide</a>
+<a href="{{site.baseurl}}/files/AI vs AI-1.pdf" class="button" target="_blank">AI Policy Template</a>
 
 ## Prompt Guide & Output Evaluation
-<a href="{{site.baseurl}}/files/Prompts for Research and Writing, Output Evaluation -1.pdf" class="button" target="_blank">View Guide</a>
+<a href="{{site.baseurl}}/files/Prompts for Research and Writing, Output Evaluation -1.pdf" class="button" target="_blank">Prompt Guide</a>
 
 ## Frontier Model Learning Modes & Features
 <a href="{{site.baseurl}}/files/Claude Learning Mode Instructions.pdf" class="button" target="_blank">Claude</a>
