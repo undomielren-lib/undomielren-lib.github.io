@@ -4,7 +4,7 @@ title:  AI Sandbox Pilot Project
 description: User guides and documentation for Digitial Scholarship and Data Services (DSDS)
 date:   2025-11-01
 image:  '/images/liubomyr-vovchak-cTZDQAtBzVw-unsplash.jpg'
-tags:   [Work, Notes]
+tags:   [Portfolio, AI]
 featured: true
 ---
 In Summer 2025, OU Libraries was awarded an Artificial Intelligence Seed Grant from the Data Institute for Societal Challenges (DISC). Through this initiative, the Digital Scholarship and Data Services (DSDS) team launched the OU Libraries AI Sandbox — a pilot ecosystem designed to give OU students, faculty, and researchers hands-on access to cutting-edge AI tools and infrastructure.
