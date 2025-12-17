@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Promptling in the Library
-description: Custom bot to teach and develop crafted prompts grounded in information literacy and critical thinking
+description: Custom bot to teach and craft prompts grounded in information literacy and critical thinking
 date:   2025-12-12
 image:  '/images/gaman-alice-KywaXjotB2M-unsplash.jpg'
 tags:   [Portfolio, AI, Bot, Custom GPT, Instruction]
