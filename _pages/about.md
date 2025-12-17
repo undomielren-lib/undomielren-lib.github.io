@@ -11,8 +11,8 @@ My background is a bit unconventional for a librarian. I have a master's in phys
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="..." style="width: 400px; height: 300px; object-fit: cover;">
-    <img src="..." style="width: 400px; height: 300px; object-fit: cover;">
+    <img src="{{site.baseurl}}/images/steve-busch-JD7T8Y1B79U-unsplash.jpg" style="width: 400px; height: 300px; object-fit: cover;">
+    <img src="{{site.baseurl}}/images/3648.jpg" style="width: 400px; height: 300px; object-fit: cover;">
   </div>
 </div>
 
