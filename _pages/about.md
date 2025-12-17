@@ -16,7 +16,8 @@ My background is a bit unconventional for a librarian. I have a master's in phys
   </div>
 </div>
 
-<a href="{{site.baseurl}}/files/Azartash_Resume_Libraries_AI-2.pdf" class="button" target="_blank">Resume</a>
+## Resume
+<a href="{{site.baseurl}}/files/Azartash_Resume_Libraries_AI-2.pdf" class="button" target="_blank">View Resume</a>
 
 <!-- ![Time to think]({{site.baseurl}}/images/501.jpg)
 *Minimalism / [Unsplash](https://unsplash.com/)* -->
