@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Librarian in the Loop
+title: Bianca Azartash
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
+description: A Digital Grimoire
 
 
 #-------------------------------
@@ -29,8 +29,9 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: Bianca Azartash
-  description: AI Literacy Project Librarian
+  title: Memento Modeli
+  description: Marginalia of a Librarian: Enchantment, Contextualized
+  subtitle: AI Literacy and Librarianship in the Digital Age
   image: '/images/521.jpg'
 
 
@@ -53,7 +54,8 @@ social:
 #- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
 #- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
 #- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/undomielren-lib"}
+- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link:"https://www.linkedin.com/in/bianca-azartash/"}
 #- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com/"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/"}
@@ -62,12 +64,12 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+# disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+# google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
