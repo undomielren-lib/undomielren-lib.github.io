@@ -14,9 +14,10 @@ Hi, my name is Bianca. I'm the AI Literacy Project Librarian at the University o
 My background is a bit unconventional for a librarian. I have a Master's in Physics and spent years studying astrophysics and working on particle detector upgrades for the ATLAS detector at CERN. I learned that the best science happens when research and knowledge are accessible to everyone, so I carry that philosophy into everything I work on. When I'm not working, I'm reading, appreciating all things kawaii and spooky, and spending time with cats.
 
 <div class="gallery-box">
-  <div class="gallery">
-    <img src="{{site.baseurl}}/images/sb.png">
-    <img src="{{site.baseurl}}/images/3648.png">
+  <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <img src="{{site.baseurl}}/images/sb.png" style="width: 100%; height: 300px; object-fit: cover;">
+    <img src="{{site.baseurl}}/images/3648.png" style="width: 100%; height: 300px; object-fit: cover;">
+  </div>
 </div>
 
 ## Resume
