@@ -14,8 +14,6 @@ tags:   [Portfolio, Conferences, Talks]
 
 - **Love Data Week 2026:** *"Concepts of Data-Driven Visualization"*. Presented on data visualization methods, pedagogy, and best practices to a diverse group of international participants, supporting the event's mission to raise awareness about research data management, sharing, preservation, and reuse.
 
-- **AI Discussion Group 2026 (Co-Lead):** Co-led an internal discussion series at University Libraries for faculty and staff on a variety of AI topics.
-
 - **Oklahoma Library Association Conference 2026:** *"A Librarian's Approach to AI"*. Developed the conference proposal and delivered a presentation on how librarians at University Libraries approach AI in higher education.
 
 ## Certifications & Professional Development

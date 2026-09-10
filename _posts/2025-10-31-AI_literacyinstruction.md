@@ -23,17 +23,19 @@ This workshop introduces participants to practical methods for using Python scri
 <a href="https://osf.io/xagwz/overview" class="button" target="_blank">View Workshop Materials</a>
 
 ### Critical Doing: How to Fact-Check Generative AI (SIFT for AI)
+Learn practical techniques for fact-checking claims, understanding context, tracking down original sources, and asking follow-up questions that reveal the full story behind the output. These techniques are based on Mike Caulfield’s SIFT method adapted for Generative AI.
 <a href="https://osf.io/xagwz/overview" class="button" target="_blank">View Workshop Materials</a>
 
 ### Build-a-Bot: Custom Chabots
+In this hands-on workshop, you'll learn to create custom chatbots tailored to your specific courses and teaching needs. We'll explore practical applications like building bots that can answer FAQs about a syllabus, provide writing feedback aligned with rubrics, or guide students through course material.
 <a href="https://osf.io/xagwz/overview" class="button" target="_blank">View Workshop Materials</a>
 
 ## Tutorials
 
 ### AI 101 Course: Fact-Checking ChatGPT
+AI Education Working Group awarded the Oklahoma Online Excellence Award, recognizing this tutorial's impact on required first-year student AI instruction at OU.
 
 ### AI 101 Course: SIFT for AI
-🏆 Awarded the Oklahoma Online Excellence Award, recognizing this tutorial's impact on required first-year student AI instruction at OU.
 
 ### Escaping Workslop
 
