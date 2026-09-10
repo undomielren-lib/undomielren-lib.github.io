@@ -21,7 +21,7 @@ My background is a bit unconventional for a librarian. I hold a Master's in Phys
 </div>
 
 ## Curriculum Vitae
-<a href="{{site.baseurl}}/files/Azartash_CV-7.pdf" class="button" target="_blank">View Resume</a>
+<a href="{{site.baseurl}}/files/Azartash_CV-7.pdf" class="button" target="_blank">View CV</a>
 
 <!-- ![Time to think]({{site.baseurl}}/images/501.jpg)
 *Minimalism / [Unsplash](https://unsplash.com/)* -->
