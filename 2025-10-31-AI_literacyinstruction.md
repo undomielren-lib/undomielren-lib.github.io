@@ -1,0 +1,43 @@
+---
+layout: post
+title:  AI Literacy Instruction
+description: University Libraries AI Literacy Workshops
+date:   2025-10-31
+image:  '/images/bade-saba-dJfB1Z7pei4-unsplash.jpg'
+tags:   [Portfolio, Workshops, AI]
+---
+## Workshops
+
+To date, I've delivered classroom instruction on critical AI concepts to over 20 classes, student organizations, and departments across campus.
+
+### Making AI Work For You
+AI is more than just generative AI. In this workshop, you will learn the different forms of AI, explore open-source AI models that can be used for different AI types, and start building a prompt library for research and writing tasks.
+<a href="https://osf.io/acp3x/overview" class="button" target="_blank">View Workshop Materials</a>
+
+### AI vs AI: How to Maintain Academic Integrity in a World of Artificial Intelligence
+Academic integrity has been challenged in an era of proliferating artificial intelligence, offering easy ways to complete assignments while minimizing cognitive engagement and discouraging acknowledgement of others' work. In this workshop, we will discuss plagiarism and fair use in the era of AI, review instructional design strategies for redesigning assignments to account for AI use, and promote the transparent use of AI.
+<a href="https://osf.io/t92bw/overview" class="button" target="_blank">View Workshop Materials</a>
+
+### Programming with LLMs: Using Python and APIs
+This workshop introduces participants to practical methods for using Python scripts to execute tasks and interact with AI models utilizing API keys to interact with LLMs. The session is designed for learners at the late-beginner to intermediate level.
+<a href="https://osf.io/xagwz/overview" class="button" target="_blank">View Workshop Materials</a>
+
+### Critical Doing: How to Fact-Check Generative AI (SIFT for AI)
+<a href="https://osf.io/xagwz/overview" class="button" target="_blank">View Workshop Materials</a>
+
+### Build-a-Bot: Custom Chabots
+<a href="https://osf.io/xagwz/overview" class="button" target="_blank">View Workshop Materials</a>
+
+## Tutorials
+
+### AI 101 Course: Fact-Checking ChatGPT
+
+### AI 101 Course: SIFT for AI
+🏆 Awarded the Oklahoma Online Excellence Award, recognizing this tutorial's impact on required first-year student AI instruction at OU.
+
+### Escaping Workslop
+
+## AI Lab (Course Re-Design) — Center for Faculty Excellence
+
+Collaborated with CFE to rework course content around three core areas: Prompt Engineering, Literature Searches with AI, and SIFT for AI.
+
