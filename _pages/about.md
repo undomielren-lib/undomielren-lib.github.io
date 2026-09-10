@@ -20,8 +20,8 @@ My background is a bit unconventional for a librarian. I have a Master's in Phys
   </div>
 </div>
 
-## Resume
-<a href="{{site.baseurl}}/files/Azartash_Resume_Libraries_AI-2.pdf" class="button" target="_blank">View Resume</a>
+## Curriculum Vitae
+<a href="{{site.baseurl}}/files/Azartash_CV-7.pdf" class="button" target="_blank">View Resume</a>
 
 <!-- ![Time to think]({{site.baseurl}}/images/501.jpg)
 *Minimalism / [Unsplash](https://unsplash.com/)* -->
