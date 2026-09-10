@@ -31,9 +31,9 @@ This workshop introduces participants to practical methods for using Python scri
 ## Tutorials
 
 ### AI 101 Course: Fact-Checking ChatGPT
+AI Education Working Group awarded the Oklahoma Online Excellence Award, recognizing this tutorial's impact on required first-year student AI instruction at OU.
 
 ### AI 101 Course: SIFT for AI
-🏆 Awarded the Oklahoma Online Excellence Award, recognizing this tutorial's impact on required first-year student AI instruction at OU.
 
 ### Escaping Workslop
 
