@@ -26,6 +26,9 @@ The AI Sandbox supports both no-code and API-based platforms, enabling you to le
 ## Nautilus + HuggingFace 
 <a href="https://docs.google.com/document/d/1XpCN_k0GiPZ4Rhin1RoV3XWEoEXCTFCGNLIOvILz6WE/edit?usp=sharing" class="button" target="_blank">Nautilus Guide</a>
 
+## Data Services Documentation
+*Updates in progress*
+
 # Workshops
 
 ## Love Data Week: Concepts of Data-Driven Visualizations 
@@ -35,5 +38,8 @@ The AI Sandbox supports both no-code and API-based platforms, enabling you to le
 
 ## Programming with LLMs (APIs and Python)
 <a href="https://osf.io/xagwz/overview" class="button" target="_blank">View Workshop Materials</a>
+
+## AI Fundamentals for Researchers
+*In progress*
 
 

@@ -37,3 +37,7 @@ This workshop introduces participants to practical methods for using Python scri
 
 ### Escaping Workslop
 
+## AI Lab (Course Re-Design) — Center for Faculty Excellence
+
+Collaborated with CFE to rework course content around three core areas: Prompt Engineering, Literature Searches with AI, and SIFT for AI.
+
