@@ -8,6 +8,8 @@ tags:   [Portfolio, Workshops, AI]
 ---
 ## Workshops
 
+To date, I've delivered classroom instruction on critical AI concepts to over 20 classes, student organizations, and departments across campus.
+
 ### Making AI Work For You
 AI is more than just generative AI. In this workshop, you will learn the different forms of AI, explore open-source AI models that can be used for different AI types, and start building a prompt library for research and writing tasks.
 <a href="https://osf.io/acp3x/overview" class="button" target="_blank">View Workshop Materials</a>
@@ -31,6 +33,7 @@ This workshop introduces participants to practical methods for using Python scri
 ### AI 101 Course: Fact-Checking ChatGPT
 
 ### AI 101 Course: SIFT for AI
+🏆 Awarded the Oklahoma Online Excellence Award, recognizing this tutorial's impact on required first-year student AI instruction at OU.
 
 ### Escaping Workslop
 

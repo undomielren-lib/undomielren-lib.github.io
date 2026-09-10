@@ -17,3 +17,30 @@ tags:   [Portfolio, Conferences, Talks]
 - **AI Discussion Group 2026 (Co-Lead):** Co-led an internal discussion series at University Libraries for faculty and staff on a variety of AI topics.
 
 - **Oklahoma Library Association Conference 2026:** *"A Librarian's Approach to AI"*. Developed the conference proposal and delivered a presentation on how librarians at University Libraries approach AI in higher education.
+
+## Certifications & Professional Development
+
+- **Data Management & Sharing** — Center for Open Science (June 2026)
+- **Accessibility in Data Visualization** — Open Visualization Academy (January 2026)
+- **Information Design and Data Visualization** — Open Visualization Academy (January 2026)
+- **Certified Software, Data, & Library Carpentries Instructor** — The Carpentries (December 2025)
+
+## Service & Committee Membership
+
+**University Libraries**
+- AI Action Team for Research Support and Student Success, Member
+- UL Research Workshops Committee — resource for data and AI questions in the committee's administrative planning for AI, Research, and Carpentries workshops
+- AI Discussion Group 2026 (Co-Lead) — internal discussion series for faculty and staff on a variety of AI topics
+
+**University of Oklahoma — University-Wide**
+- AI Education Working Group, Member. The working group was awarded the Oklahoma Online Excellence Award for the AI 101 Tutorial.
+
+**University of Oklahoma — Dept. of Physics & Astronomy**
+- Women in Physics — led STEM diversity initiatives through strategic communication and community outreach as a member of WiP leadership
+- Lunar Sooners (Astronomy Outreach Club), Member
+
+**The Carpentries**
+- AI Working Groups and Community of Practice, Member
+
+**N-Body Shop**
+- Code of Conduct Committee — led efforts in drafting and enforcing policies that promote inclusivity and ethical research practices
